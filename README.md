@@ -65,19 +65,25 @@ XXXXXXXXXXXXXXXXXXXX
 Welcome to Organic Origins, a Rust-based Inventory Management System for managing and distributing genuine organic products.
 
 Installation
+
 Follow these steps to set up Organic Origins on your local machine:
 
 Prerequisites
+
 Rust programming language installed on your system. You can download Rust from rust-lang.org.
 
 Clone the Repository
+
 git clone https://github.com/organic-origins/organic-origins.git
+
 cd organic-origins
 
 Build the Project
+
 cargo build
 
 Run the Project
+
 cargo run
 
 The project should now be running locally on your machine. You can access the dashboard and explore the features of Organic Origins.
@@ -91,10 +97,13 @@ Usage
 •	Explore the user-friendly interface to manage your organic product store efficiently.
 
 Contributing
+
 Contributions are welcome! If you'd like to contribute to Organic Origins, please fork the repository, make your changes, and submit a pull request.
 
 License
+
 This project is licensed under the MIT License.
 
 Acknowledgement
+
 Special thanks to the contributors and supporters who have helped make Organic Origins a reality.
