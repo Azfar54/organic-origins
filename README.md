@@ -1,6 +1,6 @@
 # Organic Origins
 
-
+![Organic Origins](https://github.com/Azfar54/organic-origins/assets/80037960/03b79579-3348-4148-bcd5-ff99db7d613d)
 
 Project Visual
 
@@ -83,14 +83,18 @@ cargo run
 The project should now be running locally on your machine. You can access the dashboard and explore the features of Organic Origins.
 
 Usage
+
 •	Use the dashboard to add, edit, or delete organic products from the inventory.
+
 •	Generate reports to track inventory status and make informed decisions.
+
 •	Explore the user-friendly interface to manage your organic product store efficiently.
+
 Contributing
 Contributions are welcome! If you'd like to contribute to Organic Origins, please fork the repository, make your changes, and submit a pull request.
 
 License
 This project is licensed under the MIT License.
 
-Acknowledgement:
+Acknowledgement
 Special thanks to the contributors and supporters who have helped make Organic Origins a reality.
