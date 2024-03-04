@@ -88,6 +88,8 @@ cargo run
 
 The project should now be running locally on your machine. You can access the dashboard and explore the features of Organic Origins.
 
+The complete implementation screenshots are provided in the Organic Origins_Running Projects with Features.docx file added in the project Folder.
+
 Usage
 
 •	Use the dashboard to add, edit, or delete organic products from the inventory.
@@ -104,6 +106,6 @@ License
 
 This project is licensed under the MIT License.
 
-Acknowledgement
+Acknowledgment
 
 Special thanks to the contributors and supporters who have helped make Organic Origins a reality.
